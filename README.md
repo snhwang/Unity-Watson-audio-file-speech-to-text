@@ -38,7 +38,7 @@ The project was created with Unity version 2019.4.11f1. The version of the IBM S
 
 
 
-3) Get your speech-to-text API key and the service URL. Cut and paste these into the Unity project in the appropriate fields in the inspector. You will find these in the GameObject called SpeechToText in the hierarchy of the Unity scene.
+3) Get your speech-to-text API key and the service URL. Cut and paste these into the Unity project in the appropriate fields in the inspector. You will find these in the GameObject called SpeechToText in the hierarchy of the Unity scene. The scene is call SpeechAudioFileToText.
 
 
 
