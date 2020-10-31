@@ -8,13 +8,17 @@ snhwang@alum.mit.edu
 
 LinkedIn: https://www.linkedin.com/in/snhwang
 
-10/5/2020
+v2 10/31/2020
+v1 10/5/2020
 
 
 
 ## Introduction
 
 This Unity project converts speech stored as an audio file in WAV format. The conversion is performed using IBM Watson Speech-to-text. The program should be easy to modify to convert other types of audio files that are compatible with Watson speech-to-text.
+
+## Updates
+The program still transcribes the entire audio file at once as was previously done. However, it now stores the timestamps for each of the words. After converting speech to text, it then plays the audio file and displays each word of text at the correct time based on the timestamp.
 
 
 
